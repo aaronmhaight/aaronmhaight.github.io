@@ -2,9 +2,9 @@
 
 Welcome to my home page! I am Aaron Haight, a student at [Cal State Fullerton](http://www.fullerton.edu/) currently majoring in computer science.
 
-## Comptuer Science Projects
-
 [My GitHub Page](https://github.com/aaronmhaight)
+
+## Comptuer Science Projects
 
 ### CPSC 120
 
